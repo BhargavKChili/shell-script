@@ -8,4 +8,4 @@ echo "Current home directory: $HOME"
 echo "Which user is running the script:$USER "
 echo "Hostname: $HOSTNAME"
 echo "ProcessID of current shell script: $$"
-sleep 10
+sleep 25

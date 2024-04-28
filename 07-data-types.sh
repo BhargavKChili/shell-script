@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-No1=$10
-No2=$20
+No1=$1
+No2=$2
 
 SUM=$(($No1+$No2))
 

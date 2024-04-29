@@ -10,7 +10,7 @@ NUMBER=$1
     fi
 
 NUMBER=$2
-if [ $NUMBER -lt 10]
+if [ $NUMBER -lt 10 ]
 then
 echo "Given number $NUMBER is less than 10"
 else
